@@ -17,4 +17,4 @@
 - keras - version 2.8.0
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@poolakit] - feel free to contact me!
